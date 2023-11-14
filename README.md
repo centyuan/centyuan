@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Things I code with 
+**Things I code with**
 
 ![all-skills](https://skillicons.dev/icons?i=linux,go,py,bash,kubernetes,docker,ai)
 
