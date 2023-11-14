@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 **Things I code with:**
 
-![all-skills](https://skillicons.dev/icons?i=linux,go,py,bash,kubernetes,docker,ai)
+![all-skills](https://skillicons.dev/icons?i=linux,py,go,bash,kubernetes,docker,ai)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FCC624&message=Linux&logo=Linux)](https://www.linux.org/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=10B981&message=Rocky+Linux&logo=Rocky+Linux)](https://rockylinux.org/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=262577&message=Kali&logo=Kali+Linux)](https://www.kali.org)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=0D597F&message=Alpine+Linux&logo=Alpine+Linux)](https://www.alpinelinux.org/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=A81D33&message=Debian&logo=Debian)](https://www.debian.org/)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=00ADD8&message=Golang&logo=Go)](https://golang.org/)
@@ -53,7 +51,7 @@ Here are some ideas to get you started:
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=007ACC&message=Visual+Studio+Code&logo=Visual+Studio+Code)](https://code.visualstudio.com/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=F37626&message=Jupyter&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/latest/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=019733&message=Vim&logo=Vim)](https://www.vim.org/)
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF4088&message=Hugo&logo=Hugo)](https://gohugo.io/)
+
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FF6C37&message=Postman&logo=Postman)](https://www.postman.com/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=85EA2D&message=Swagger&logo=Swagger)](https://swagger.io/)
