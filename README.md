@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Things I code with 
+
 ![all-skills](https://skillicons.dev/icons?i=linux,go,py,bash,kubernetes,docker,ai)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FCC624&message=Linux&logo=Linux)](https://www.linux.org/)
@@ -28,8 +29,6 @@ Things I code with
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=121011&message=Shell+Scripts&logo=GNU-Bash)](https://www.gnu.org/software/bash/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=Markdown&logo=Markdown)](https://www.markdownguide.org/)
 
-
-
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=326CE5&message=Kubernetes&logo=Kubernetes)](https://kubernetes.io/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=2496ED&message=Docker&logo=Docker)](https://www.docker.com/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=575757&message=Containerd&logo=Containerd)](https://containerd.io/)
@@ -37,14 +36,8 @@ Things I code with
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=005571&message=ElasticSearch&logo=ElasticSearch)](https://www.elastic.co/cn)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=005571&message=Kibana&logo=Kibana)](https://www.elastic.co/cn/kibana)
-
-[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=OpenTelemetry&logo=OpenTelemetry)](https://opentelemetry.io/)
-
-
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=FC6D26&message=GitLab+Runner&logo=GitLab)](https://docs.gitlab.com/runner/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=2088FF&message=GitHub+Actions&logo=GitHub+Actions)](https://github.com/features/actions)
-
-
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=4479A1&message=MySQL&logo=MySQL)](https://www.mysql.com/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=316192&message=PostgreSQL&logo=PostgreSQL)](https://www.postgresql.org/)
@@ -54,6 +47,7 @@ Things I code with
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=231F20&message=Apache+Kafka&logo=Apache+Kafka)](https://kafka.apache.org/)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=009639&message=NGINX&logo=NGINX)](https://nginx.org/)
+[![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=000000&message=OpenTelemetry&logo=OpenTelemetry)](https://opentelemetry.io/)
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=017CEE&message=Apache+Airflow&logo=Apache+Airflow)](https://airflow.apache.org/)
 
 [![-](https://img.shields.io/static/v1?style=flat-square&label=&logoColor=ffffff&color=007ACC&message=Visual+Studio+Code&logo=Visual+Studio+Code)](https://code.visualstudio.com/)
